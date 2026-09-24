@@ -129,8 +129,8 @@ was_contacted_before = (previous > 0)
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/SagarMishra119/BankSight-AI-
-cd banksight-ai
+git clone https://github.com/sanjanasingh97721-hash/Bankpredict_AI.git
+cd Bankpredict_AI
 ```
 
 ## 2. Create Virtual Environment
